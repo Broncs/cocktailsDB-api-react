@@ -1,4 +1,4 @@
-# cocktailsDB
+# 🚀 cocktailsDB
 
 #### Nesse projeto usei a api do CocktailsDB, reforcei meus conhecimentos em React-Router , Contextapi , Buscas e Fetching Data .
 
